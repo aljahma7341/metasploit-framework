@@ -16,7 +16,7 @@ echo "####################################"
 
 echo "Downloading & Extracting....."
 
-cd $HOME/metasploit-framework
+cd $HOME/metasploit-framework-
 
 echo "####################################"
 echo "Thanx  To  Hax4us"
