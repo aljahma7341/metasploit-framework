@@ -10,13 +10,15 @@ echo "WAIT UNTIL INSTALLING............"
 
 echo "####################################"
 
-#apt update
+apt update
 
 echo "####################################"
 
 apt upgrade
+echo "####################################"
 
 apt install unstable-repo
+echo "####################################"
 
 
  apt install metasploit
