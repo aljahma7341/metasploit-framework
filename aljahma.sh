@@ -10,16 +10,26 @@ echo "WAIT UNTIL INSTALLING............"
 
 echo "####################################"
 
-apt update && apt upgrade && apt install unstable-repo && apt install metasploit
+apt update
 
 echo "####################################"
+
+apt upgrade
+
 
 echo "Downloading & Extracting....."
 
 cd $HOME/metasploit-framework-
 
+chmod+x aljahma.sh
+
+
 echo "####################################"
-echo "Thanx  To  Hax4us"
+echo "apt install unstable-repo"
+
+echo "####################################"
+echo "apt install metasploit"
+
 echo "####################################"
 echo " NOW YOU CAN LAUNCH METASPLOIT BY JUST EXECUTE THE COMMAND :=> msfconsole"
 echo "####################################"
