@@ -1,2 +1,9 @@
-# metasploit-framework
-apt update &amp;&amp; apt upgrade &amp;&amp; apt install unstable-repo &amp;&amp; apt install metasploit 
+# metasploit-framework 5-0-20
+
+$ apt update
+$ apt upgrade
+$ apt install unstable-repo
+$ apt install metasploit 
+
+
+use: msfconsole
