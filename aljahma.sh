@@ -24,6 +24,11 @@ echo "####################################"
  apt install metasploit-framework
 
 echo "####################################"
+
+
+
+apt install metasploit
+echo "####################################"
 echo " NOW YOU CAN LAUNCH METASPLOIT BY JUST EXECUTE THE COMMAND :=> msfconsole"
 echo "####################################"
 
