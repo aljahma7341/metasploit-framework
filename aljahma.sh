@@ -21,7 +21,7 @@ apt install unstable-repo
 echo "####################################"
 
 
- apt install metasploit
+ apt install metasploit-framework
 
 echo "####################################"
 echo " NOW YOU CAN LAUNCH METASPLOIT BY JUST EXECUTE THE COMMAND :=> msfconsole"
