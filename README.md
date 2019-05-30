@@ -5,7 +5,7 @@ _________________________________
 $ apt update
 $ apt upgrade
 $ apt install unstable-repo
-$ apt install metasploit 
+$ apt install metasploit-framework 
 
 
 use: msfconsole
